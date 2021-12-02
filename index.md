@@ -5,15 +5,15 @@ In 2016 Elon Musk, founder of Tesla & SpaceX, embarked on a project called Neura
 Before understanding what Neuralink is and the future it holds, we ought to discuss the science behind it
 
 ### The Human Brain
-The human brain is made up of 86 billion neurons that are all connected to each other by synapses. A Neuron is a cell that can be thought of as an electrical device that allows positive or negative ions to flow in or out of itself. Neurons communicate by sending and receiving these electric signals, in which release small chemical neurotransmitters at the synapse. A neuron initiates an action potential when it receives the right amount of excitatory and inhibitory synaptic input. Action potentials are also referred to as 'spikes' because of the shape it produces when being recorded.
+The human brain is made up of 86 billion neurons that are all connected to each other by synapses(Yongchen). A Neuron is a cell that can be thought of as an electrical device that allows positive or negative ions to flow in or out of itself. Neurons communicate by sending and receiving these electric signals, in which release small chemical neurotransmitters at the synapse(Cherry). A neuron initiates an action potential when it receives the right amount of excitatory and inhibitory synaptic input. Action potentials are also referred to as 'spikes' because of the shape it produces when being recorded.
 
 ![Action Potential](docs/assets/spike.png)
 
 ### Electrodes
-Neuroscientists can monitor the neural activity from outside the brain, but those techniques lack detailed reports since it records millions of active neurons at once. Instead, Electrodes can be connected directly to the brain to produce high-level and fine-scale information by recording 'spikes' from individual neurons. Electrodes are placed near neurons to record and detect action potentials. These records allow for neuroscientists to decode the information represented by those cells, such as everything we feel, touch, think, or see., or do. 
+Neuroscientists can monitor the neural activity from outside the brain, but those techniques lack detailed reports since it records millions of active neurons at once(Yongchen). Instead, Electrodes can be connected directly to the brain to produce high-level and fine-scale information by recording 'spikes' from individual neurons. Electrodes are placed near neurons to record and detect action potentials. These records allow for neuroscientists to decode the information represented by those cells, such as everything we feel, touch, think, or see., or do. 
 
 ### Neural Stimulation
- When small electric currents are delivered through the electrode, it will fire action potentials of other nearby neurons. If the neurons spike in the right temporal sequence then they can create a pattern for a particular desired sensation. Desired sensation could be seeing a visual image, hearing a certain tone, or the feel of holding an object in a particular hand. Neural Stimulation can cure or help those with a neurological diseases by reducing or eliminating certain pathological patterns that occur in that disease. A list of some of the common neurological diseases can be found below.
+ When small electric currents are delivered through the electrode, it will fire action potentials of other nearby neurons. If the neurons spike in the right temporal sequence then they can create a pattern for a particular desired sensation(Yongchen). Desired sensation could be seeing a visual image, hearing a certain tone, or the feel of holding an object in a particular hand. Neural Stimulation can cure or help those with a neurological diseases by reducing or eliminating certain pathological patterns that occur in that disease. A list of some of the common neurological diseases can be found below.
 - Parkinson's Disease     
 - Epilepsy
 - Seizures 
@@ -29,15 +29,16 @@ The initial goal that is stated on Neuralink's website, is to produce technology
 
 
 ### The 'Link' Implant
-The 'Link' is a surgically implanted device that will connect to thousands of neurons in the brain. The implant is a small sealed device that can stimulate and transmit neural signals with the attached ‘Neural Threads'. Neural Threads are micron-scale threads that are inserted into areas of the brain that control movement. Each thread contains many electrodes that will record neural activity for the device to decode and interpret the brains intentions. This is done by mathematical models and adaptive algorithms that take advantage of its initial data on how the brain works. Eventually, the computer will use the interpreted commands to execute desired functions or tasks.
+The 'Link' is a surgically implanted device that will connect to thousands of neurons in the brain. The implant is a small sealed device that can stimulate and transmit neural signals with the attached ‘Neural Threads'. Neural Threads are micron-scale threads that are inserted into areas of the brain that control movement. Each thread contains many electrodes that will record neural activity for the device to decode and interpret the brains intentions("Neuralink Progress Update, Summer 2020"). This is done by mathematical models and adaptive algorithms that take advantage of its initial data on how the brain works. Eventually, the computer will use the interpreted commands to execute desired functions or tasks.
 
 ![link](docs/assets/link.PNG)
 
 ### Testing Link
-To ensure safety, Neuralink will complete a great amount of testing before the first release. Elon Musk has already showed the success of the Link by demonstrating its capabilities with animals. One being a monkey where it played the game Pong with its mind. The monkey, Pager, was initially taught how to play the video game with a joystick while the Neuralink device was implanted in the brain. The device decoded the neural activity while the monkey performed different moves. After a few minutes, the joystick was removed and the monkey played the game with its mind by using the output of the decoder.
+To ensure safety, Neuralink will complete a great amount of testing before the first release. Elon Musk has already showed the success of the Link by demonstrating its capabilities with animals. One being a monkey where it played the game Pong with its mind. The monkey, Pager, was initially taught how to play the video game with a joystick while the Neuralink device was implanted in the brain. The device decoded the neural activity while the monkey performed different moves. After a few minutes, the joystick was removed and the monkey played the game with its mind by using the output of the decoder(“Monkey MindPong”).
 
 ![Monkey](docs/assets/monkey.jpg)
-Neuralink plans to test it on humans within the next year. When a user thinks about moving a certain body part or muscle, they device will decode the action potentials fired from those intentions. The users first goal would be to learn how to move a virtual mouse. Eventually, the user will be able to control more advanced devices once they get more practice and Neutralino’s adaptive decoding algorithms improve.
+
+Neuralink plans to test it on humans within the next year. When a user thinks about moving a certain body part or muscle, they device will decode the action potentials fired from those intentions. The users first goal would be to learn how to move a virtual mouse. Eventually, the user will be able to control more advanced devices once they get more practice and Neutralino’s adaptive decoding algorithms improve(Neuralink).
 
 ### Neuralink App
 The app installed on an iOS device, would allow the user to control the phone from the just thinking of the desired actions. The app also plans to have a Bluetooth connection that would be able to control any device that can connect. The Neuralink app provides guides and exercises for the user to learn how to control the device. Not only can an iPhone be controlled, but with Bluetooth connection users can control any mouse, keyboard, or other Bluetooth devices.
@@ -82,7 +83,7 @@ Cherry, Kendra. “How Neurons Transmit Information throughout the Body.” Very
 
 “Monkey MindPong.” YouTube, uploaded by Neuralink, 8 April 2021, https://youtu.be/rsCul1sp4hQ.
 
-Neuralink Progress Update, Summer 2020." YouTube, uploaded by Neuralink, 28 August 2020, https://youtu.be/DVvmgjBL74w.
+"Neuralink Progress Update, Summer 2020." YouTube, uploaded by Neuralink, 28 August 2020, https://youtu.be/DVvmgjBL74w.
 
 “Neuralink.” Neuralink, 2021, https://neuralink.com/.
 

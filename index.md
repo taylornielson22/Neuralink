@@ -5,7 +5,7 @@ In 2016 Elon Musk, founder of Tesla & SpaceX, embarked on a project called Neura
 Before understanding what Neuralink is and the future it holds, we ought to discuss the science behind it
 
 ### The Human Brain
-The human brain is made up of 86 billion neurons that are all connected to each other by synapses(Yongchen). A Neuron is a cell that can be thought of as an electrical device that allows positive or negative ions to flow in or out of itself. Neurons communicate by sending and receiving these electric signals, in which release small chemical neurotransmitters at the synapse(Cherry). A neuron initiates an action potential when it receives the right amount of excitatory and inhibitory synaptic input. Action potentials are also referred to as 'spikes' because of the shape it produces when being recorded.
+The human brain is made up of 86 billion neurons that are all connected to each other by synapses.<sup>[[1]](https://alleninstitute.org/what-we-do/brain-science/news-press/articles/5-unsolved-mysteries-about-brain)</sup> A Neuron is a cell that can be thought of as an electrical device that allows positive or negative ions to flow in or out of itself<sup>1</sup>. Neurons communicate by sending and receiving these electric signals, in which release small chemical neurotransmitters at the synapse.<sup>1</sup> A neuron initiates an action potential when it receives the right amount of excitatory and inhibitory synaptic input. Action potentials are also referred to as 'spikes' because of the shape it produces when being recorded.
 
 ![Action Potential](docs/assets/spike.png)
 
@@ -34,7 +34,7 @@ The 'Link' is a surgically implanted device that will connect to thousands of ne
 ![link](docs/assets/link.PNG)
 
 ### Testing Link
-To ensure safety, Neuralink will complete a great amount of testing before the first release. Elon Musk has already showed the success of the Link by demonstrating its capabilities with animals. One being a monkey where it played the game Pong with its mind. The monkey, Pager, was initially taught how to play the video game with a joystick while the Neuralink device was implanted in the brain. The device decoded the neural activity while the monkey performed different moves. After a few minutes, the joystick was removed and the monkey played the game with its mind by using the output of the decoder(“Monkey MindPong”).
+To ensure safety, Neuralink will complete a great amount of testing before the first release. Elon Musk has already showed the success of the Link by demonstrating its capabilities with animals. One being a monkey where it played the game Pong with its mind. The monkey, Pager, was initially taught how to play the video game with a joystick while the Neuralink device was implanted in the brain.<sup>2</sup> The device decoded the neural activity while the monkey performed different moves. After a few minutes, the joystick was removed and the monkey played the game with its mind by using the output of the decoder.<sup>2</sup>
 
 ![Monkey](docs/assets/monkey.jpg)
 
@@ -72,22 +72,22 @@ Neuralink is currently focused on making medical devices for a wide range of neu
   Device as potential into channeling into more regions of the brain where mental disorders originate in. This could lead to solving mental illnesses or eliminating a feeling for a certain period of time. For an example, eliminating fear when presenting in front of a class.
 
 ## Importance In The Future
-Humans in a way are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI. Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines.<sup>18</sup>
+Humans in a way are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI. Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines.
 
 
 To keep up with Neuralink and their progress, visit their website at https://neuralink.com/
 
 ### References
 
-Cherry, Kendra. “How Neurons Transmit Information throughout the Body.” Verywell Mind, Verywell Mind, 22 June 2020, https://www.verywellmind.com/what-is-a-neuron-2794890. 
+<sup>[1]</sup> “5 Unsolved Mysteries about the Brain.” Allen Institute, 14 Mar. 2019, https://alleninstitute.org/what-we-do/brain-science/news-press/articles/5-unsolved-mysteries-about-brain. 
 
-“Monkey MindPong.” YouTube, uploaded by Neuralink, 8 April 2021, https://youtu.be/rsCul1sp4hQ.
+<sup>[2]</sup> “Monkey MindPong.” YouTube, uploaded by Neuralink, 8 April 2021, https://youtu.be/rsCul1sp4hQ.
 
-"Neuralink Progress Update, Summer 2020." YouTube, uploaded by Neuralink, 28 August 2020, https://youtu.be/DVvmgjBL74w.
+<sup>[3]</sup> "Neuralink Progress Update, Summer 2020." YouTube, uploaded by Neuralink, 28 August 2020, https://youtu.be/DVvmgjBL74w.
 
-“Neuralink.” Neuralink, 2021, https://neuralink.com/.
+<sup>[4]</sup> “Neuralink.” Neuralink, 2021, https://neuralink.com/.
 
-Yongchen, Wang, and Guo Liang. “Nanomaterial-Enabled Neural Stimulation.” Frontiers in Neuroscience, vol. 10, 2016. 
+<sup>[5]</sup> Yongchen, Wang, and Guo Liang. “Nanomaterial-Enabled Neural Stimulation.” Frontiers in Neuroscience, vol. 10, 2016. 
 
 
  

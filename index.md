@@ -75,7 +75,7 @@ Neuralink is currently focused on making medical devices for a wide range of neu
 In a way, humans are already cyborgs, our smartphones and computers we use every day have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing and rapidly advancing, which raise many possible threats for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI.<sup>[7](https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai)</sup> Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines. Neuralink isn't the only company talking about merging the human brain with AI. To learn more about this top and recent news, I suggest reading ["This is how we'll merge with AI"](https://venturebeat.com/2020/11/23/this-is-how-well-merge-with-ai/) and this [study](https://www.mddionline.com/neurological/researchers-use-ai-and-stimulation-strengthen-brain) done by University of Minnesota Medical School and Massachusetts General Hospital.
 
 
-To keep up with Neuralink and their progress, visit their website at https://neuralink.com/
+To keep up with Neuralink and their progress, visit their website at [https://neuralink.com/](https://neuralink.com/)
 
 ### References
 

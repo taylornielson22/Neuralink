@@ -5,7 +5,7 @@ In 2016 Elon Musk, founder of Tesla & SpaceX, embarked on a project called Neura
 Before understanding what Neuralink is and the future it holds, we ought to discuss the science behind it
 
 ### The Human Brain
-The human brain is made up of 86 billion neurons that are all connected to each other by synapses.<sup>[[1]](https://alleninstitute.org/what-we-do/brain-science/news-press/articles/5-unsolved-mysteries-about-brain)</sup> A Neuron is a cell that can be thought of as an electrical device that allows positive or negative ions to flow in or out of itself<sup>1</sup>. Neurons communicate by sending and receiving these electric signals, in which release small chemical neurotransmitters at the synapse.<sup>1</sup> A neuron initiates an action potential when it receives the right amount of excitatory and inhibitory synaptic input. Action potentials are also referred to as 'spikes' because of the shape it produces when being recorded.
+The human brain is made up of 86 billion neurons that are all connected to each other by synapses.<sup>[1](https://alleninstitute.org/what-we-do/brain-science/news-press/articles/5-unsolved-mysteries-about-brain)</sup> A Neuron is a cell that can be thought of as an electrical device that allows positive or negative ions to flow in or out of itself<sup>1</sup>. Neurons communicate by sending and receiving these electric signals, in which release small chemical neurotransmitters at the synapse.<sup>1</sup> A neuron initiates an action potential when it receives the right amount of excitatory and inhibitory synaptic input. Action potentials are also referred to as 'spikes' because of the shape it produces when being recorded.
 
 ![Action Potential](docs/assets/spike.png)
 

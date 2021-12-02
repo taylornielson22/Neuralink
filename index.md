@@ -86,6 +86,7 @@ Neuralink Progress Update, Summer 2020." YouTube, uploaded by Neuralink, 28 Augu
 
 “Neuralink.” Neuralink, 2021, https://neuralink.com/.
 
+Yongchen, Wang, and Guo Liang. “Nanomaterial-Enabled Neural Stimulation.” Frontiers in Neuroscience, vol. 10, 2016. 
 
 
  

@@ -1,4 +1,4 @@
-In 2016 Elon Musk, founder of Tesla & SpaceX, embarked on a project called Neuralink where they plan to help those with neurological diseases. Currently, they are creating a Brain Machine Interface that will allow humans to control devices with solely their mind and has potential to many more features like telepathy communication. 
+A.I. is defintly a hot topic right now, like [autonomous vehicles](https://www.synopsys.com/automotive/what-is-autonomous-car.html), [hyperautomation](https://www.automationanywhere.com/rpa/hyperautomation), and it's usage in [cybersecurity](https://www.computer.org/publications/tech-news/trends/the-use-of-artificial-intelligence-in-cybersecurity). Though those topics are impressive, Neaurlink brings A.I. to a whole new level of technological advancement. Neaurlink the In 2016 Elon Musk, founder of Tesla & SpaceX, embarked on a project called Neuralink where they plan to help those with neurological diseases. Currently, they are creating a Brain Machine Interface that will allow humans to control devices with solely their mind and has potential to many more features like telepathy communication. 
 
 # The Science
 

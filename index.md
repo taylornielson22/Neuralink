@@ -38,7 +38,7 @@ To ensure safety, Neuralink will complete a great amount of testing before the f
 
 ![Monkey](docs/assets/monkey.jpg)
 
-Neuralink plans to test it on humans within the next year. When a user thinks about moving a certain body part or muscle, they device will decode the action potentials fired from those intentions. The users first goal would be to learn how to move a virtual mouse. Eventually, the user will be able to control more advanced devices once they get more practice and Neutralino’s adaptive decoding algorithms improve.<sup>[6](https://neuralink.com/approach/)</sup> 
+Neuralink will test it on humans within the next year. When a user thinks about moving a certain body part or muscle, they device will decode the action potentials fired from those intentions. The users first goal would be to learn how to move a virtual mouse. Eventually, the user will be able to control more advanced devices once they get more practice and Neutralino’s adaptive decoding algorithms improve.<sup>[6](https://neuralink.com/approach/)</sup> 
 
 ### Neuralink App
 The app installed on an iOS device, would allow the user to control the phone from the just thinking of the desired actions.<sup>[4](https://neuralink.com/applications/)</sup> The app also plans to have a Bluetooth connection that would be able to control any device that can connect. The Neuralink app provides guides and exercises for the user to learn how to control the device.<sup>[4](https://neuralink.com/applications/)</sup> Not only can an iPhone be controlled, but with Bluetooth connection users can control any mouse, keyboard, or other Bluetooth devices.
@@ -51,28 +51,28 @@ Neuralink is currently focused on making medical devices for a wide range of neu
 ![Show Case](docs/assets/showcase.png)
 
 ### Visual Prothesis (Supervision)
-  Essentially plug camera into visual cortex and stimulate thousands of electrodes to reproduce the visual image. Musk stated that Supervision could be achieved by adjusting the frequency and sensor, giving the user ultraviolet, infrared, or radar vision.
+  An engineer, in the visual neuroscience department, stated they could essentially plug a camera into visual cortex and stimulate thousands of electrodes to reproduce the visual image. Musk stated that Supervision could be achieved by adjusting the frequency and sensor, giving the user ultraviolet, infrared, or radar vision.
   
 ### Telepathy
-  The brain puts a tremendous amount of its mental energy in translating thoughts into words and is often inefficient. Neuralink predicts to produce better communication by implementing the ability to send our true thoughts.
+  The brain puts a tremendous amount of its mental energy in translating thoughts into words and is often inefficient. During the showcase, Neuralink predicts they can produce better communication by implementing the ability to send our true thoughts.
   
 ### Unlocking Creativity
- There is "a lot of untapped creativity" in each person due to the brains inefficient translation of thoughts. For an example, if someone thought of a beautiful detailed scene, it would take years for someone to craft or paint if they even had the ability to. With enough electrodes, those raw concepts could be decoded to "show people primitive versions of music or even 3D model for engineering.”
+ One of the lead researchers explained how there is "a lot of untapped creativity" in each person due to the brains inefficient translation of thoughts. For an example, if someone thought of a beautiful detailed scene, it would take years for someone to craft or paint if they even had the ability to. With enough electrodes, those raw concepts could be decoded to "show people primitive versions of music or even 3D model for engineering.”
  
 ### Save Memories as Repositories
   Memories fade as time passes, even the ones we cherish the most. Neuralink proposed the possibility of saving memories in repositories like we do with music. A user would be able to go back and revisited the memory. This would also lead to solving cognitive disorders like Alzheimer’s.
   
 ### Eliminate Physical Pain
-  There are many diseases that contribute a lot of pain to the patient, and even the treatments can be painful. Neuralink devices could play a crucial role in minimizing the physical pain felt by those with painful diseases.
+ One of the in house neurosurgeons at the event discussed the possibility of eliminating pain.  There are many diseases that contribute a lot of pain to the patient, and even the treatments can be painful. Neuralink devices could play a crucial role in minimizing the physical pain felt by those with painful diseases.
   
 ###  Disease Prediction
-   Not only will the device pick up on electrical signals in the brain, but chemical cues as well. Informing the user ahead of time will lead them to take early action and hopefully prevent the disease.
+   Neuralink informed those at the showecase that not only will the device pick up on electrical signals in the brain, but chemical cues as well. Meaning the device could inform the user of possible diseases ahead of time, which will lead to early action and hopefully prevent the disease.
    
 ### Solve Mental Illness
-  Device as potential into channeling into more regions of the brain where mental disorders originate in. This could lead to solving mental illnesses or eliminating a feeling for a certain period of time. For an example, eliminating fear when presenting in front of a class.
+  Musk has stated multiple times that the device as potential into channeling into more regions of the brain where mental disorders originate in. This could lead to solving mental illnesses or eliminating a feeling for a certain period of time. For an example, eliminating fear when presenting in front of a class.
 
 ## Importance In The Future
-Humans in a way are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI.<sup>[7](https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai)</sup> Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines.
+In a way, humans are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI.<sup>[7](https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai)</sup> Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines.
 
 
 To keep up with Neuralink and their progress, visit their website at https://neuralink.com/

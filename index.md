@@ -53,19 +53,19 @@ Neuralink is currently focused on making medical devices for a wide range of neu
 ### Telepathy
   The brain puts a tremendous amount of its mental energy in translating thoughts into words and is often inefficient. Neuralink predicts to produce better communication by implementing the ability to send our true thoughts.
   
- ### Unlocking Creativity
+### Unlocking Creativity
  There is "a lot of untapped creativity" in each person due to the brains inefficient translation of thoughts. For an example, if someone thought of a beautiful detailed scene, it would take years for someone to craft or paint if they even had the ability to. With enough electrodes, those raw concepts could be decoded to "show people primitive versions of music or even 3D model for engineering.”
  
-  ### Save Memories as Repositories
+### Save Memories as Repositories
   Memories fade as time passes, even the ones we cherish the most. Neuralink proposed the possibility of saving memories in repositories like we do with music. A user would be able to go back and revisited the memory. This would also lead to solving cognitive disorders like Alzheimer’s.
   
-  ### Eliminate Physical Pain
+### Eliminate Physical Pain
   There are many diseases that contribute a lot of pain to the patient, and even the treatments can be painful. Neuralink devices could play a crucial role in minimizing the physical pain felt by those with painful diseases.
   
-  ###  Disease Prediction
+###  Disease Prediction
    Not only will the device pick up on electrical signals in the brain, but chemical cues as well. Informing the user ahead of time will lead them to take early action and hopefully prevent the disease.
    
- ### Solve Mental Illness
+### Solve Mental Illness
   Device as potential into channeling into more regions of the brain where mental disorders originate in. This could lead to solving mental illnesses or eliminating a feeling for a certain period of time. For an example, eliminating fear when presenting in front of a class.
 
 ## Importance In The Future
@@ -77,7 +77,9 @@ To keep up with Neuralink and their progress, visit their website at https://neu
 ### References
 
 “Monkey MindPong.” YouTube, uploaded by Neuralink, 8 April 2021, https://youtu.be/rsCul1sp4hQ.
+
 Neuralink Progress Update, Summer 2020." YouTube, uploaded by Neuralink, 28 August 2020, https://youtu.be/DVvmgjBL74w.
+
 “Neuralink.” Neuralink, 2021, https://neuralink.com/.
 
 

@@ -41,7 +41,7 @@ Neuralink plans to test it on humans within the next year. When a user thinks ab
 
 ### Neuralink App
 The app installed on an iOS device, would allow the user to control the phone from the just thinking of the desired actions. The app also plans to have a Bluetooth connection that would be able to control any device that can connect. The Neuralink app provides guides and exercises for the user to learn how to control the device. Not only can an iPhone be controlled, but with Bluetooth connection users can control any mouse, keyboard, or other Bluetooth devices.
-![App](docs/assets/NeuralinkApp.webp)
+![App](docs/assets/nueralinkApp.webp)
 
 # What The Future Holds 
 

@@ -47,8 +47,6 @@ The app installed on an iOS device, would allow the user to control the phone fr
 
 Neuralink is currently focused on making medical devices for a wide range of neurological disorders. However, they expect to create new non-medical applications as they learn to communicate with more areas of the brain. The following is a list of potential applications that Elon Musk and his team showcased in August of 2020 and their thoughts regarding these possibilities. You can view the showcase [here](https://www.youtube.com/embed/DVvmgjBL74w).
 
-{% include youtube "" %}
-
 ### Visual Prothesis (Supervision)
   Essentially plug camera into visual cortex and stimulate thousands of electrodes to reproduce the visual image. Musk stated that Supervision could be achieved by adjusting the frequency and sensor, giving the user ultraviolet, infrared, or radar vision.
   

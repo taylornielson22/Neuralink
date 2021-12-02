@@ -78,11 +78,14 @@ To keep up with Neuralink and their progress, visit their website at https://neu
 
 ### References
 
+Cherry, Kendra. “How Neurons Transmit Information throughout the Body.” Verywell Mind, Verywell Mind, 22 June 2020, https://www.verywellmind.com/what-is-a-neuron-2794890. 
+
 “Monkey MindPong.” YouTube, uploaded by Neuralink, 8 April 2021, https://youtu.be/rsCul1sp4hQ.
 
 Neuralink Progress Update, Summer 2020." YouTube, uploaded by Neuralink, 28 August 2020, https://youtu.be/DVvmgjBL74w.
 
 “Neuralink.” Neuralink, 2021, https://neuralink.com/.
+
 
 
  

@@ -72,7 +72,7 @@ Neuralink is currently focused on making medical devices for a wide range of neu
   Device as potential into channeling into more regions of the brain where mental disorders originate in. This could lead to solving mental illnesses or eliminating a feeling for a certain period of time. For an example, eliminating fear when presenting in front of a class.
 
 ## Importance In The Future
-Humans in a way are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI. Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines. 
+Humans in a way are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI. Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines.<sup>18</sup>
 
 
 To keep up with Neuralink and their progress, visit their website at https://neuralink.com/

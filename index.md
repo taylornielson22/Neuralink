@@ -41,7 +41,7 @@ To ensure safety, Neuralink will complete a great amount of testing before the f
 Neuralink plans to test it on humans within the next year. When a user thinks about moving a certain body part or muscle, they device will decode the action potentials fired from those intentions. The users first goal would be to learn how to move a virtual mouse. Eventually, the user will be able to control more advanced devices once they get more practice and Neutralino’s adaptive decoding algorithms improve.<sup>[6](https://neuralink.com/approach/)</sup> 
 
 ### Neuralink App
-The app installed on an iOS device, would allow the user to control the phone from the just thinking of the desired actions. The app also plans to have a Bluetooth connection that would be able to control any device that can connect. The Neuralink app provides guides and exercises for the user to learn how to control the device. Not only can an iPhone be controlled, but with Bluetooth connection users can control any mouse, keyboard, or other Bluetooth devices.
+The app installed on an iOS device, would allow the user to control the phone from the just thinking of the desired actions.<sup>[4](https://neuralink.com/applications/)</sup> The app also plans to have a Bluetooth connection that would be able to control any device that can connect. The Neuralink app provides guides and exercises for the user to learn how to control the device.<sup>[4](https://neuralink.com/applications/)</sup> Not only can an iPhone be controlled, but with Bluetooth connection users can control any mouse, keyboard, or other Bluetooth devices.
 ![App](docs/assets/nueralinkApp.webp)
 
 # What The Future Holds 
@@ -72,7 +72,7 @@ Neuralink is currently focused on making medical devices for a wide range of neu
   Device as potential into channeling into more regions of the brain where mental disorders originate in. This could lead to solving mental illnesses or eliminating a feeling for a certain period of time. For an example, eliminating fear when presenting in front of a class.
 
 ## Importance In The Future
-Humans in a way are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI. Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines.
+Humans in a way are already cyborgs, we use our smartphones and computers every day that have become an extension of ourselves. Neuralink is extending that digital tertiary layer we already have. AI's intelligence is increasing at an exponential rate which raises many possible concerns for humanity. Musk stated that AI poses an "existential threat" to humanity and humans will eventually have to merge with AI.<sup>[7](https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai)</sup> Neuralink is an opportunity to save us from the potential threats AI imposes by enabling humans to compete at the same level as super-intelligent machines.
 
 
 To keep up with Neuralink and their progress, visit their website at https://neuralink.com/
@@ -90,4 +90,6 @@ To keep up with Neuralink and their progress, visit their website at https://neu
 <sup>[5]</sup> Cogan SF. Neural stimulation and recording electrodes. Annu Rev Biomed Eng. 2008;10:275-309. doi: 10.1146/annurev.bioeng.10.061807.160518. PMID: 18429704.
 
 <sup>[6]</sup> "Interfacing with the Brain”. Neuralink, 2021, https://neuralink.com/approach.
+
+<sup>[7]</sup> Piper, Kelsey. “Why Elon Musk Fears Artificial Intelligence.” Vox, Vox, 2 Nov. 2018, https://www.vox.com/future-perfect/2018/11/2/18053418/elon-musk-artificial-intelligence-google-deepmind-openai. 
  
